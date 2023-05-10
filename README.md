@@ -7,5 +7,10 @@ It's all for my first git project
 I made this project because of the course
 called: Git Complete: The definitive, setp-by-step guide to Git | by Jason Taylor 
 ## Copyright
+### Todos os direitos reservados
+Caio Flôres
+caio.floores2005@gmail.com
+dedecaio
 
-Git.Training
+##### Course
+2023 Git.Training
